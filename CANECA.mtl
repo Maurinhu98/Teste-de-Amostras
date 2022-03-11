@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd \\server2\scanner\Maurício\MAU\Estudos\Caneca\luts.jpg
+map_Kd https://github.com/Maurinhu98/Teste-de-Amostras/blob/main/lutz.jpg
 
 newmtl Lisa
 Ns 258.823529
